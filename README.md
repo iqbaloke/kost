@@ -1,4 +1,4 @@
-Perkenalkan nama saya iqbal wahyudi saya dari universitas binadarma palembang Angkatan Teknik Informatika 17
+Perkenalkan nama saya iqbal wahyudi saya dari universitas binadarma palembang Teknik Informatika 17
 
 Cara Instalasi 
 - buat projek dengan cara create flutter
