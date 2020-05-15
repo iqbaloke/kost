@@ -232,7 +232,7 @@ class _LoginState extends State<Login> {
                             Icons.lock,
                             color: Colors.blueAccent,
                           ),
-                          labelText: 'Username',
+                          labelText: 'Password',
                         ),
                       ),
                       SizedBox(
