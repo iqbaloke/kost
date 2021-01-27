@@ -1,4 +1,6 @@
 Cara Instalasi 
-- buat projek dengan cara create flutter
-- jangan langsung build ( flutter run) karena menu build belum ada.
-- buat sama persis yang di menu lib ( maaf kost.rar ikut terupload)
+- download rar atau clone 
+- buat jika sudah jalankan dan ekstrak file
+- jangan lupa untuk mengekspord databasenya
+- laptop dan hp harus dalam 1 jaringan karena masih menggunakan local serve ( xampp )
+- jalankan aplikasi
